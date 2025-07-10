@@ -1,7 +1,7 @@
 # Hi, I'm Amir Poudel 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/amirpoudel/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/amirpoudel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/amirpoudel/){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/amirpoudel){:target="_blank"}
 
 ---
 
@@ -32,14 +32,14 @@ AWS, Docker, CI/CD Pipelines, NGINX
 
 ## 🏅 Certifications
 
-- [AWS Certified Solutions Architect](https://www.credly.com/badges/816f0f26-a615-4908-a991-c9fcf30c23a4/public_url)
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/816f0f26-a615-4908-a991-c9fcf30c23a4/public_url){:target="_blank"}
 
 ---
 
 ## 💼 Experience
 
 **Gurkha Strategy**  
-Team Lead / Backend Developer (May 2024 – Present) | [opentickets.io](https://opentickets.io/)  
+Team Lead / Backend Developer (May 2024 – Present) | [opentickets.io](https://opentickets.io/){:target="_blank"}  
 _Remote_
 
 - Optimized Gen1 Platform backend, improving ticket purchase and scanning efficiency by 200% and processing up to $200K with 99.9% uptime during peak traffic.
@@ -56,10 +56,10 @@ Backend Developer (Apr 2023 – Apr 2024) | Lalitpur, Nepal
 
 ## 🌟 Projects
 
-### [Resibid: Home Jobs Platform](https://www.resi-bid.com/)
+### [Resibid: Home Jobs Platform](https://www.resi-bid.com/){:target="_blank"}
 - Built a secure, scalable platform for jobs and contractor bidding, with real-time chat and Stripe payments.
 
-### [Sentiment Analysis Microservice](https://github.com/amirpoudel/sentiment-microservice)
+### [Sentiment Analysis Microservice](https://github.com/amirpoudel/sentiment-microservice){:target="_blank"}
 - Deployed a microservices-based sentiment analysis model for Nepali restaurant reviews in romanized text.
 - Fine-tuned BERT, using Node.js, Python, Kafka, and gRPC for scalable and efficient review processing.
 
@@ -67,8 +67,8 @@ Backend Developer (Apr 2023 – Apr 2024) | Lalitpur, Nepal
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/amirpoudel/)
-- [GitHub](https://github.com/amirpoudel)
+- [LinkedIn](https://linkedin.com/in/amirpoudel/){:target="_blank"}
+- [GitHub](https://github.com/amirpoudel){:target="_blank"}
 - Email: amirpoudeldev@gmail.com
 
 ---
