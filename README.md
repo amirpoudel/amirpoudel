@@ -28,8 +28,11 @@ Langchain
 **DevOps & Cloud:**  
 AWS, Docker, CI/CD Pipelines, NGINX
 
-**Certification:**  
-AWS Solution Architect
+---
+
+## 🏅 Certifications
+
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/816f0f26-a615-4908-a991-c9fcf30c23a4/public_url)
 
 ---
 
